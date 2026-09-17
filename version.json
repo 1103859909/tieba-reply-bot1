@@ -10,7 +10,12 @@
   "kill": [],
   "kill_all": false,
   "grace_hours": 24,
-  "keys": {},
-  "now": 1789669301,
+  "keys": {
+    "06f97421b0523e8c": {
+      "d": "DEV-362B-BYGR-U67V-JYQM",
+      "exp": "2026-10-17"
+    }
+  },
+  "now": 1789670099,
   "require_key": true
 }
