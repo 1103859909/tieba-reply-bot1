@@ -10,12 +10,7 @@
   "kill": [],
   "kill_all": false,
   "grace_hours": 24,
-  "keys": {
-    "cc6880bfe6b8b488": {
-      "d": "DEV-TJEC-TJEC-TJEC-TJEC",
-      "exp": "2026-10-17"
-    }
-  },
-  "now": 1789652721,
+  "keys": {},
+  "now": 1789653091,
   "require_key": true
 }
