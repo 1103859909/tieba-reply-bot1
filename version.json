@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "min_supported": "",
+  "force": false,
+  "url": "",
+  "sha256": "",
+  "size": 0,
+  "notes": "首个内测版",
+  "message": "",
+  "kill": [],
+  "kill_all": false,
+  "grace_hours": 24
+}
