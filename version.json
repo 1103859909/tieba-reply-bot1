@@ -9,5 +9,12 @@
   "message": "",
   "kill": [],
   "kill_all": false,
-  "grace_hours": 24
+  "grace_hours": 24,
+  "keys": {
+    "80da083a0e8b2d2b": {
+      "d": "DEV-362B-BYGR-U67V-JYQM",
+      "exp": "2026-10-17"
+    }
+  },
+  "now": 1789652034
 }
