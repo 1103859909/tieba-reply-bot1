@@ -3,9 +3,9 @@
   "min_supported": "",
   "force": false,
   "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.0/TiebaHelper-1.1.0.zip",
-  "sha256": "564560044ade0fbbdd84d6453a68825f0c6259fa1e4c53a8efdc8d98936f94dd",
-  "size": 61345062,
-  "notes": "1.1.0：内置运营配置（装完即用）、授权码一机一码、代码编译加密、控制指令走 API 源（不再被 CDN 缓存拖住）",
+  "sha256": "7f3aa0982ce9e31c1aeaa347943fbdf0dae7d5d733b5b9152c52a7965be28521",
+  "size": 61344996,
+  "notes": "1.1.0：验证码一机一码（页面文案改为 验证码/运行）、内置运营配置、代码编译加密、控制指令走 API 源",
   "message": "",
   "kill": [],
   "kill_all": false,
@@ -20,6 +20,6 @@
       "exp": ""
     }
   },
-  "now": 1789670957,
+  "now": 1789672177,
   "require_key": true
 }
