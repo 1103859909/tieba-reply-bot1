@@ -3,14 +3,14 @@
   "min_supported": "",
   "force": false,
   "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.0/TiebaHelper-1.1.0.zip",
-  "sha256": "b7009fa9762fe4740b74010dcc36384ece2b107a29a3d0cb48822b1cd86a7aaa",
-  "size": 33672380,
-  "notes": "1.1.0：新增授权码（一机一码）、控制指令更快生效（多镜像自动取最新）",
+  "sha256": "aeb7eb3497c8574f1ec8795422f998d6022276912c472b8646a083c77fe5babf",
+  "size": 33669424,
+  "notes": "1.1.0：内置运营配置（装完即用）、授权码一机一码、控制指令更快生效",
   "message": "",
   "kill": [],
   "kill_all": false,
   "grace_hours": 24,
   "keys": {},
-  "now": 1789654357,
+  "now": 1789655241,
   "require_key": false
 }
