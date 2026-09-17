@@ -6,8 +6,8 @@
   "sha256": "8ecf66022249b35a562749b3ab6757302d342f5ef26c595278dc0f371945aede",
   "size": 33657527,
   "notes": "首个内测版：发帖助手（强制更新 + 强制联网 + 远程停用三道锁）",
-  "message": "【远程停用演练】你看到这个页面 = 控制通道正常工作。演练结束后会自动恢复，请稍等。",
+  "message": "",
   "kill": [],
-  "kill_all": true,
+  "kill_all": false,
   "grace_hours": 24
 }
