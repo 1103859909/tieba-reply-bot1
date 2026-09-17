@@ -11,15 +11,11 @@
   "kill_all": false,
   "grace_hours": 24,
   "keys": {
-    "80da083a0e8b2d2b": {
-      "d": "DEV-362B-BYGR-U67V-JYQM",
-      "exp": "2026-10-17"
-    },
     "cc6880bfe6b8b488": {
       "d": "DEV-TJEC-TJEC-TJEC-TJEC",
       "exp": "2026-10-17"
     }
   },
-  "now": 1789652628,
+  "now": 1789652721,
   "require_key": true
 }
