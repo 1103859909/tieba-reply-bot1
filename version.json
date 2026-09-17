@@ -11,6 +11,6 @@
   "kill_all": false,
   "grace_hours": 24,
   "keys": {},
-  "now": 1789660385,
-  "require_key": false
+  "now": 1789669301,
+  "require_key": true
 }
