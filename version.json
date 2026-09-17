@@ -14,8 +14,12 @@
     "06f97421b0523e8c": {
       "d": "DEV-362B-BYGR-U67V-JYQM",
       "exp": "2026-10-17"
+    },
+    "fa210fe9839e5ddc": {
+      "d": "DEV-L8YG-MZXU-F97Q-6X76",
+      "exp": ""
     }
   },
-  "now": 1789670409,
+  "now": 1789670569,
   "require_key": true
 }
