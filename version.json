@@ -22,9 +22,13 @@
     "7042076b3f1213d8": {
       "d": "DEV-B7CF-SPB5-GA78-QFCF",
       "exp": ""
+    },
+    "3871135de75887b2": {
+      "d": "DEV-EN44-FDYW-A37L-MRY8",
+      "exp": ""
     }
   },
-  "now": 1789740889,
+  "now": 1789741979,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
