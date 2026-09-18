@@ -3,9 +3,9 @@
   "min_supported": "",
   "force": false,
   "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.0/TiebaHelper-1.1.0.zip",
-  "sha256": "e9e5e46d92183f6a6e7f1cd5272aa4223f6859385a52ddf998d1d873ea059392",
-  "size": 61425327,
-  "notes": "1.1.0：一键更新（弹提示→点一下自动下载替换重启）、验证码一机一码、内置运营配置、代码编译加密",
+  "sha256": "7329e9b2708ec5d56e3d62b081458de49b7279881c46fe0ac9b0a9e651ccc369",
+  "size": 61472010,
+  "notes": "1.1.0：配图包自动下载、一键更新、验证码一机一码、内置运营配置、代码编译加密",
   "message": "",
   "kill": [],
   "kill_all": false,
@@ -24,7 +24,7 @@
       "exp": ""
     }
   },
-  "now": 1789740374,
+  "now": 1789740889,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
