@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "min_supported": "",
+  "min_supported": "1.1.1",
   "force": false,
   "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.1/TiebaHelper-1.1.1.zip",
   "sha256": "d1cd3a3b96f673d43d010a42d42c8d0b7f10774b452f571ea53240cbc7c7de82",
@@ -28,7 +28,7 @@
       "exp": ""
     }
   },
-  "now": 1789743548,
+  "now": 1789743952,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
