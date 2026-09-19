@@ -28,12 +28,17 @@
       "exp": ""
     }
   },
-  "now": 1789743952,
+  "now": 1789829569,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
     "sha256": "cac817b15f7854cacecdc33a07154173652623b40772bd5a507504f35af260e3",
     "version": "1",
     "size": 153619882
+  },
+  "tdocs": {
+    "share_url": "https://docs.qq.com/sheet/DWnZ0RkJEdGtYT3Zx",
+    "file_id": "DWnZ0RkJEdGtYT3Zx",
+    "template_file_id": "DWkR1WXBnUkpnQVJH"
   }
 }
