@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "min_supported": "1.1.1",
+  "version": "1.1.2",
+  "min_supported": "1.1.2",
   "force": false,
-  "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.1/TiebaHelper-1.1.1.zip",
-  "sha256": "d1cd3a3b96f673d43d010a42d42c8d0b7f10774b452f571ea53240cbc7c7de82",
-  "size": 61458177,
-  "notes": "1.1.1：配图包自动下载、前端代码混淆、一键更新、验证码一机一码、内置运营配置",
+  "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.2/TiebaHelper-1.1.2.zip",
+  "sha256": "c305dc5723d6c1cde7ca4931426ef231c5d800d362612c95bb349d2821be9067",
+  "size": 61886562,
+  "notes": "1.1.2：修复「模板表读取失败」（出厂凭据为空时不再覆盖用户配置里的令牌）；新增 自检.bat 一键体检（配置/令牌/网络/表格）；读在线表失败自动重试并把原因写进报错；撞码不再弹浏览器，改为暂停该号并邮件通知；支持控制清单下发腾讯文档令牌",
   "message": "",
   "kill": [],
   "kill_all": false,
@@ -28,7 +28,7 @@
       "exp": ""
     }
   },
-  "now": 1789829569,
+  "now": 1789831112,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
