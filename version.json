@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "min_supported": "1.1.4",
+  "version": "1.1.5",
+  "min_supported": "1.1.5",
   "force": false,
-  "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.4/TiebaHelper-1.1.4.zip",
-  "sha256": "4298384e047fcb1fd33b004aedf4e0dd632bc1ba3f4a6b9f1073152f0dbc4d9b",
-  "size": 61970273,
-  "notes": "1.1.4 更新说明：\n\n· 新增「配置你自己的凭据」：设置 → 腾讯文档登记 → 按引导申请自己的 ClientID/ClientSecret 填进去即可。配额只算你自己头上，不再和内置共享额度互相抢（多人同时写表撞限流、写回失败的概率大幅下降）。\n· 你自己配的凭据**不会被更新/重启冲掉**：以后运营者下发共享凭据或新表链接时，只更新表链接，绝不动你自己的凭据。\n· 用自己凭据时，引导里会把「排班表」和「模板表」两张表都列出来，按提示把自己的应用授权给这两张表即可。\n",
+  "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/v1.1.5/TiebaHelper-1.1.5.zip",
+  "sha256": "5324875672c756cc38815d4a5386720c4226f10c66d0719cbf0c59b8bd5fd9fb",
+  "size": 61993591,
+  "notes": "1.1.5 更新说明：\n\n· 「配置你自己的凭据」改对了：字段名和腾讯文档开放平台后台完全一致 —— client_id（应用ID）、access_token、open_id，照着后台复制粘贴三个值即可（之前那个表单要 ClientSecret，而后台直接给的是 access_token，等于配不了）。\n· 保存时自动校验：token 里的应用ID/open_id 和填的是否配套（复制串了会直接告诉你）、token 有没有过期、能不能读到排班表；任何一步不过都写清楚原因。\n· 自动续签（可选，推荐）：如果开放平台的「应用管理」里能看到 Client Secret，展开折叠区填一次，程序会用官方接口换取 access_token + 刷新令牌（刷新令牌有效期 1 年）—— 之后 access_token 30 天到期会**自动续签**，你什么都不用做。只填 access_token 的话，面板会显示剩余天数并提醒你到期前去后台点「重置」换一个。\n· 若内置共享额度被抢光（400011），设置页直接提示：配上自己的凭据立刻恢复，或等次日额度恢复后重启一次程序。\n",
   "message": "",
   "kill": [],
   "kill_all": false,
@@ -28,7 +28,7 @@
       "exp": ""
     }
   },
-  "now": 1789892215,
+  "now": 1789895293,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
