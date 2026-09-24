@@ -9,7 +9,7 @@
   "message": "内测已结束：本程序（内测版）已停止服务，请不要再使用。感谢参与测试，后续安排等管理员通知。",
   "kill": [],
   "kill_all": true,
-  "grace_hours": 24,
+  "grace_hours": 0,
   "keys": {
     "06f97421b0523e8c": {
       "d": "DEV-362B-BYGR-U67V-JYQM",
@@ -28,7 +28,7 @@
       "exp": ""
     }
   },
-  "now": 1790264240,
+  "now": 1790266796,
   "require_key": true,
   "images": {
     "url": "https://github.com/1103859909/tieba-reply-bot1/releases/download/images-v1/Images-1.zip",
